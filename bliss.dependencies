@@ -1,8 +1,26 @@
 [
   {
-    "remote": "github",  
-    "repository": "android_device_lge_g2-common",
-    "target_path": "device/lge/g2-common",
-    "revision": "lp5.1-caf"
+  "remote": "TeamBliss-Devices",
+  "repository": "android_device_lge_g2-common",
+  "target_path": "device/lge/g2-common",
+  "revision": "lp5.1-caf"
+  },
+  {
+  "remote": "TeamBliss-Devices",
+  "repository": "android_kernel_lge_msm8974",
+  "target_path": "kernel/lge/msm8974",
+  "revision": "lp5.1-caf"
+  },
+  {
+  "remote": "cm",
+  "repository": "android_device_qcom_common",
+  "target_path": "device/qcom/common",
+  "revision": "cm-12.1"
+  },
+  {
+  "remote": "github",
+  "repository": "lg-devs/proprietary_vendor_lge",
+  "target_path": "vendor/lge",
+  "revision": "cm-12.1-caf"
   }
 ]
